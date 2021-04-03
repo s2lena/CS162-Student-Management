@@ -1,0 +1,4 @@
+No,CourseID,CourseName,Class,LecturerAccount,Lecturer first name,Lecturer lastname,Title,Sex,StartDate,EndDate,DayOfWeek,StartHour,EndHour,Room,Semester,AcacdemicYear
+1,CS162,Computer Science II,19CTT1,dbtien,Dinh Ba,Tien,TS,Male,2020-01-07,2020-06-01,Sat,14:00,16:00,I41,HK1,2019-2020
+2,MTH252,Calculus II,19CTT1,nhanh,Nguyen Huu,Anh,GS,Male,2020-01-07,2020-06-01,Sat,10:00,12:00,I41,HK1,2019-2020
+3,PH212,Physic General II,19CTT1,nhnha,Nguyen Huu,Nha,TS,Male,2020-01-07,2020-06-01,Thu,19:00,21:00,I35,HK1,2019-2020

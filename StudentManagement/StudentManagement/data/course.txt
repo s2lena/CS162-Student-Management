@@ -1,0 +1,80 @@
+CS162
+Computer Science II
+19CTT1
+dbtien
+Dinh Ba
+Tien
+TS
+0
+2020-01-07
+2020-06-01
+Sat
+08:00
+10:00
+I41
+HK1
+2019-2020
+MTH252
+Calculus II
+19CTT1
+nhanh
+Nguyen Huu
+Anh
+GS
+0
+2020-01-07
+2020-06-01
+Fri
+19:00
+21:00
+I41
+HK1
+2019-2020
+PH212
+Physic General II
+19CTT1
+nhnha
+Nguyen Huu
+Nha
+TS
+0
+2020-01-07
+2020-06-01
+Sat
+10:00
+12::00
+I35
+HK1
+2019-2020
+BAA000101
+Mac-Lenin
+19CTT1
+nqhuy
+Ngo Quang
+Huy
+TS
+0
+2020-01-03
+2020-05-01
+Mon
+13:00
+16:00
+GD1
+HK1
+2019-2020
+CS10103
+Start Up
+17CTT1
+dbtien
+Dinh Ba
+Tien
+TS
+0
+2020-01-03
+2020-05-03
+Fri
+19:00
+21:00
+I42
+HK1
+2019-2020

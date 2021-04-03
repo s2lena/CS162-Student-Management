@@ -1,0 +1,25 @@
+0
+1
+1
+Nguyen Minh Huy
+hk2
+CS487
+Sofware capstone
+19CLC5
+2019 09 17
+2019 11 17
+3
+9 30
+11 30
+I34
+CS311
+hk3
+Computational structures
+19APCS2
+2020 06 05
+2020 08 05
+5
+13 30
+15 30
+I45
+

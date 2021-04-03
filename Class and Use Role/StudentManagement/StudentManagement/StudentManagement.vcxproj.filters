@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\Controllers\AccountController.cpp" />
+    <ClCompile Include="src\Models\Account.cpp" />
+    <ClCompile Include="src\Models\AccountTest.cpp" />
+    <ClCompile Include="src\Models\Staff.cpp" />
+    <ClCompile Include="src\Models\StaffTest.cpp" />
+    <ClCompile Include="src\Controllers\StaffController.cpp" />
+    <ClCompile Include="src\Controllers\AccountControllerTest.cpp" />
+    <ClCompile Include="src\Controllers\StaffControllerTest.cpp" />
+    <ClCompile Include="src\Models\LecturerTest.cpp" />
+    <ClCompile Include="src\Models\Lecturer.cpp" />
+    <ClCompile Include="src\Controllers\LecturerController.cpp" />
+    <ClCompile Include="src\Controllers\LecturerControllerTest.cpp" />
+    <ClCompile Include="src\Models\Student.cpp" />
+    <ClCompile Include="src\Models\StudentTest.cpp" />
+    <ClCompile Include="src\Controllers\StudentController.cpp" />
+    <ClCompile Include="src\Controllers\StudentControllerTest.cpp" />
+    <ClCompile Include="src\Models\Class.cpp" />
+    <ClCompile Include="src\Models\ClassTest.cpp" />
+    <ClCompile Include="src\Views\AccountView.cpp" />
+    <ClCompile Include="src\Views\LecturerView.cpp" />
+    <ClCompile Include="src\Views\StaffView.cpp" />
+    <ClCompile Include="src\Views\StudentView.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Models\Account.h" />
+    <ClInclude Include="src\Models\Checkin.h" />
+    <ClInclude Include="src\Models\Common.h" />
+    <ClInclude Include="src\Models\Course.h" />
+    <ClInclude Include="src\Models\Grade.h" />
+    <ClInclude Include="src\Models\Lecturer.h" />
+    <ClInclude Include="src\Models\Staff.h" />
+    <ClInclude Include="src\Models\Student.h" />
+    <ClInclude Include="src\Controllers\AccountController.h" />
+    <ClInclude Include="src\Controllers\StaffController.h" />
+    <ClInclude Include="src\Controllers\LecturerController.h" />
+    <ClInclude Include="src\Controllers\StudentController.h" />
+    <ClInclude Include="src\Models\Class.h" />
+    <ClInclude Include="src\Views\AccountView.h" />
+    <ClInclude Include="src\Views\LecturerView.h" />
+    <ClInclude Include="src\Views\StaffView.h" />
+    <ClInclude Include="src\Views\StudentView.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".clang-format" />
+  </ItemGroup>
+</Project>

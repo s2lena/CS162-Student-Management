@@ -1,0 +1,26 @@
+2
+19APCS1
+1
+CS162
+Introduction to Programming
+Dinh Ba Tien
+TS
+0
+2020 04 01
+2020 06 01
+2
+7 30
+11 30
+I42
+2
+CM101
+Communications
+Duong Nguyen Vu
+GS
+0
+2020 04 01
+2020 06 01
+7
+13 30
+17 30
+I23
